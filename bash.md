@@ -19,7 +19,7 @@
 **Description**: Displays absolute path to the current directory location.
 
 ### mkdir
-##### Make a dire*ctory.
+##### Make a directory.
 
 **Usage**: mkdir [directory name(s)]
 
@@ -57,7 +57,7 @@
 **Description**: Takes your source file and moves your file to a directory if it exists. If not, it creates it.
 
 ### man
-##### Get user ma*nual on a command.
+##### Get user manual on a command.
 
 **Usage**: man [command]
 
