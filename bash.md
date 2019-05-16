@@ -49,10 +49,13 @@
 
 **Description**: Removes a file or files in the current directory.
 
-### mv
-#### Moves or renames a file.
+**Notable Options**:
+* -rf: Removes a directory _and all its contents_.
 
-**Usage**: mv [source file or directory] [destination or new name]
+### mv
+#### Moves or renames file(s).
+
+**Usage**: mv [source file(s) or directory/directories] [destination or new name]
 
 **Description**: Takes your source file and moves your file to a directory if it exists. If not, it creates it.
 
