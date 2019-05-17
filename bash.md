@@ -1,7 +1,7 @@
 # BASH (Terminal) Cheatsheet
 
 ### ls
-##### List contents
+##### Lists contents
 
 **Usage**: ls [options] [path]
 
@@ -13,7 +13,7 @@
 
 
 ### pwd
-##### Show your current path.
+##### Shows your current path.
 
 **Usage**: pwd
 
@@ -21,7 +21,7 @@
 
 
 ### mkdir
-##### Make a directory.
+##### Makes a directory.
 
 **Usage**: mkdir [directory name(s)]
 
@@ -60,7 +60,7 @@
 
 
 ### mv
-#### Moves or renames file(s).
+##### Moves or renames file(s).
 
 **Usage**: mv [source file(s) or directory/directories] [destination or new name]
 
