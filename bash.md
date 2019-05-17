@@ -1,5 +1,7 @@
 # BASH (Terminal) Cheatsheet
 
+---
+
 ### ls
 ##### Lists contents
 
@@ -11,6 +13,8 @@
 
 * -a: shows all files, including hidden ones
 
+
+---
 
 ### pwd
 ##### Shows your current path.
