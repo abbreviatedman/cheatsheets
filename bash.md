@@ -1,7 +1,6 @@
 # BASH (Terminal) Cheatsheet
 
 ### ls
-
 ##### List contents
 
 **Usage**: ls [options] [path]
@@ -9,7 +8,9 @@
 **Description**: shows you list of all contents in a the specified directory. If you don't specify a directory, uses current directory.
 
 **Notable Options**:
+
 * -a: shows all files, including hidden ones
+
 
 ### pwd
 ##### Show your current path.
@@ -17,6 +18,7 @@
 **Usage**: pwd
 
 **Description**: Displays absolute path to the current directory location.
+
 
 ### mkdir
 ##### Make a directory.
@@ -26,6 +28,7 @@
 **Description**: Makes directory/directories in the current directory.
 
 **Notable Options**:
+
 * -p: creates parent directories
 
 ### cd
@@ -35,12 +38,14 @@
 
 **Description**: Moves you to a different directory.
 
+
 ### touch
 ##### Create a file.
 
-***Usage**: touch [filename(s)]
+**Usage**: touch [filename(s)]
 
 **Description**: Creates a file or files in the current directory.
+
 
 ### rm
 ##### Removes a file.
@@ -50,7 +55,9 @@
 **Description**: Removes a file or files in the current directory.
 
 **Notable Options**:
+
 * -rf: Removes a directory _and all its contents_.
+
 
 ### mv
 #### Moves or renames file(s).
@@ -59,12 +66,14 @@
 
 **Description**: Takes your source file and moves your file to a directory if it exists. If not, it creates it.
 
+
 ### man
 ##### Get user manual on a command.
 
 **Usage**: man [command]
 
 **Description**: Displays usage documentation for a terminal command.
+
 
 ### clear
 ##### Clears the terminal.
